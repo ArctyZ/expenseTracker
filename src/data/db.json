@@ -1,0 +1,58 @@
+[
+  {
+    "id": "ee8930e1-f4a3-4408-a837-b454dec6294b",
+    "title": "Makan siang",
+    "nominal": 15000,
+    "type": "expense",
+    "category": "food",
+    "date": "25/6/2024"
+  },
+  {
+    "id": "794959e1-72ec-4b6a-8f92-2359e8a72bf4",
+    "title": "Bus",
+    "nominal": 5000,
+    "type": "expense",
+    "category": "transport",
+    "date": "26/6/2024"
+  },
+  {
+    "id": "fa760a5d-e887-498f-9e57-6234feb39471",
+    "title": "Coca cola",
+    "nominal": 22000,
+    "type": "expense",
+    "category": "beverage",
+    "date": "1/7/2024"
+  },
+  {
+    "id": "1f2ede5a-33e2-45fc-af1e-459f00849f76",
+    "title": "Buku tulis",
+    "nominal": 3000,
+    "type": "expense",
+    "category": "books",
+    "date": "30/7/2024"
+  },
+  {
+    "id": "2ce33f32-9396-4cf2-b570-3daacbf7e1e5",
+    "title": "Nasi padang",
+    "nominal": 3000,
+    "type": "expense",
+    "category": "food",
+    "date": "21/6/2024"
+  },
+  {
+    "id": "f1a4b78a-c956-4b3d-aaf9-51737c66b80f",
+    "title": "Ticket kereta",
+    "nominal": 143000,
+    "type": "expense",
+    "category": "transport",
+    "date": "11/6/2024"
+  },
+  {
+    "id": "8b6a2e6f-40f5-4b9b-a661-363ff54dfbb7",
+    "title": "Gaji",
+    "nominal": 200000,
+    "type": "income",
+    "category": "gaji",
+    "date": "29/6/2024"
+  }
+]
